@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- User info, non-clickable -->
+    <item
+        android:id="@+id/menu_username"
+        android:title="User: Unknown"
+        android:enabled="false"
+        android:icon="@drawable/baseline_person_24"
+        android:showAsAction="always" />
+
+    <!-- Toggle listening on/off -->
+    <item
+        android:id="@+id/menu_toggle_listening"
+        android:title="Listening: ON"
+        android:checkable="true"
+        android:checked="true"
+        android:icon="@drawable/baseline_hearing_24"
+        android:showAsAction="ifRoom" />
+
+    <!-- Logout action -->
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514015547896",
+    "project_id": "rural-girls-platform",
+    "storage_bucket": "rural-girls-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514015547896:android:b69e3d55b0b237a984460d",
+        "android_client_info": {
+          "package_name": "com.example.sosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514015547896-a3kad1bskfvgfs65pqbl3fdvk6o1kfc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1EJwhoZagr13-k4uhQFPC3dzv8Nxyn18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514015547896-a3kad1bskfvgfs65pqbl3fdvk6o1kfc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
